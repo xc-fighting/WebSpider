@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="edu.uci.ics.crawler4j.crawler.CrawlConfig"/>
+<fullyQualifiedTypeName name="edu.uci.ics.crawler4j.fetcher.PageFetcher"/>
+<fullyQualifiedTypeName name="edu.uci.ics.crawler4j.robotstxt.RobotstxtConfig"/>
+<fullyQualifiedTypeName name="edu.uci.ics.crawler4j.robotstxt.RobotstxtServer"/>
+<fullyQualifiedTypeName name="edu.uci.ics.crawler4j.crawler.CrawlController"/>
 </qualifiedTypeNameHistroy>
