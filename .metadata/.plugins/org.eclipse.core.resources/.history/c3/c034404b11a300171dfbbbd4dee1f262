@@ -59,7 +59,7 @@ public class MyCrawler extends WebCrawler{
 			System.out.println("URL: " + url);
 			
 			if(imgPatterns.matcher(url).matches()==false||
-					!(page.getParseData() instanceof BinaryParseData)||
+					page.getParseData() instanceof BinaryParseData||
 					page.getContentData().length<(10*1024)){
 				return;
 			}

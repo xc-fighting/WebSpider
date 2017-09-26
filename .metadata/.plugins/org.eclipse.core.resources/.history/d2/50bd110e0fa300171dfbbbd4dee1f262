@@ -13,7 +13,9 @@ public class Controller {
 
          CrawlConfig config = new CrawlConfig();
          config.setCrawlStorageFolder(crawlStorageFolder);
-        
+         config.setMaxDepthOfCrawling(2);
+         config.setPolitenessDelay(1000);
+         config.setMaxPagesToFetch(30);
          config.setIncludeBinaryContentInCrawling(true);
 
          /*
@@ -23,8 +25,6 @@ public class Controller {
          RobotstxtConfig robotstxtConfig = new RobotstxtConfig();
          RobotstxtServer robotstxtServer = new RobotstxtServer(robotstxtConfig, pageFetcher);
          CrawlController controller = new CrawlController(config, pageFetcher, robotstxtServer);
-         String[] domains={"https://viterbischool.usc.edu/"};
-         MyCrawler.configure(domains, "images");
 
          /*
           * For each crawl, you need to add some seed urls. These are the first

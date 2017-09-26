@@ -14,7 +14,6 @@ public class Controller {
          CrawlConfig config = new CrawlConfig();
          config.setCrawlStorageFolder(crawlStorageFolder);
         
-         config.setIncludeBinaryContentInCrawling(true);
 
          /*
           * Instantiate the controller for this crawl.
