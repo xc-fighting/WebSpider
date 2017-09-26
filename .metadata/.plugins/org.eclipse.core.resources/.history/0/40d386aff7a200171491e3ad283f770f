@@ -1,0 +1,7 @@
+package csci572hw2.webcrawler;
+
+public class Controller {
+    public static void main(String[] args){
+    	
+    }
+}
