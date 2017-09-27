@@ -690,3 +690,336 @@
 2017-09-27 07:20:33,214 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-09-27 07:20:33,215 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
 2017-09-27 07:20:33,215 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 07:20:33,216 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 07:42:38,698 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 07:42:38,699 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 07:42:38,700 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 07:42:38,701 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 07:51:28,927 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 07:51:28,927 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 07:51:28,928 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 07:51:28,928 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 07:52:22,752 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 07:52:22,752 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 07:52:22,754 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 07:52:22,754 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 08:00:24,475 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 08:00:24,475 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 08:00:24,476 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 08:00:24,476 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 08:11:53,115 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 08:11:53,116 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 08:11:53,117 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 08:11:53,117 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 08:13:18,820 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 08:13:18,821 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 08:13:18,821 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 08:13:18,821 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 08:13:54,218 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 08:13:54,219 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 08:13:54,219 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 08:13:54,221 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 08:17:08,390 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 08:17:08,391 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 08:17:08,392 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 08:17:08,393 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 09:02:36,337 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:02:36,338 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 09:02:36,339 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:02:36,340 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 09:15:02,847 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:15:02,847 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 09:15:02,847 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:15:02,847 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 09:20:19,472 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:20:19,473 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 09:20:19,474 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:20:19,475 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 09:30:02,708 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:30:02,709 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 09:30:02,709 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:30:02,709 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 09:30:34,281 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:30:34,281 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 09:30:34,282 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:30:34,282 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 09:33:47,465 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:33:47,465 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 09:33:47,466 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:33:47,466 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 09:38:01,510 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:38:01,510 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 09:38:01,511 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:38:01,511 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 09:38:09,268 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:38:09,269 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 09:38:09,271 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:38:09,271 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 09:39:59,742 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:39:59,742 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 09:39:59,743 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:39:59,743 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 09:40:45,606 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:40:45,607 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 09:40:45,607 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:40:45,608 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 09:46:16,374 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:46:16,374 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 09:46:16,375 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:46:16,375 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 09:56:06,922 [Worker-61] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository-onebeartoe.forge.cloudbees.com/snapshot/edu/uci/ics/crawler4j/4.3/crawler4j-4.3-sources.jar
+2017-09-27 09:56:10,006 [Worker-61] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/edu/uci/ics/crawler4j/4.3/crawler4j-4.3-sources.jar
+2017-09-27 09:56:10,062 [Worker-61] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/edu/uci/ics/crawler4j/4.3/crawler4j-4.3-sources.jar
+2017-09-27 09:56:10,118 [Worker-61] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for edu.uci.ics:crawler4j:4.3
+2017-09-27 09:56:10,374 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:56:10,375 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 09:56:10,376 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 09:56:10,376 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 10:10:00,009 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:10:00,009 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 10:10:00,010 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:10:00,010 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 10:10:20,994 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:10:20,994 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 10:10:20,995 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:10:20,995 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 10:10:28,766 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:10:28,766 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 10:10:28,767 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:10:28,767 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 10:13:01,339 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:13:01,339 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 10:13:01,340 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:13:01,341 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 10:23:10,494 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:23:10,494 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 10:23:10,494 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:23:10,494 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 10:23:19,168 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:23:19,168 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 10:23:19,168 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 10:23:19,168 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 11:42:27,427 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2017-09-27 11:43:42,855 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 11:43:42,855 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 11:43:42,857 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 11:43:42,858 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 11:56:57,466 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 11:56:57,466 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 11:56:57,467 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 11:56:57,468 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 11:58:04,915 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 11:58:04,915 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 11:58:04,918 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 11:58:04,918 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 11:58:37,256 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 11:58:37,257 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 11:58:37,259 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 11:58:37,260 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 12:01:32,558 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 12:01:32,559 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 12:01:32,560 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 12:01:32,560 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 12:02:06,810 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 12:02:06,811 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 12:02:06,811 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 12:02:06,811 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 12:05:58,651 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 12:05:58,652 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 12:05:58,654 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 12:05:58,654 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 12:06:57,376 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 12:06:57,377 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 12:06:57,380 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 12:06:57,380 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 12:07:16,864 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 12:07:16,864 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 12:07:16,865 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 12:07:16,865 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 12:08:44,865 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 12:08:44,865 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 12:08:44,866 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 12:08:44,866 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 12:12:53,159 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 12:12:53,160 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 12:12:53,161 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 12:12:53,161 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 12:13:55,915 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 12:13:55,915 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 12:13:55,916 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 12:13:55,916 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 12:14:07,243 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 12:14:07,243 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 12:14:07,245 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 12:14:07,245 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 12:15:38,812 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 12:15:38,813 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 12:15:38,814 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 12:15:38,815 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 15:47:13,432 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2017-09-27 15:48:02,051 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 15:48:02,052 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 15:48:02,055 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 15:48:02,055 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-27 15:52:19,915 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 15:52:19,916 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-27 15:52:19,917 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-27 15:52:19,917 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 03:03:44,215 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2017-09-28 03:08:31,441 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 03:08:31,441 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 03:08:31,441 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 03:08:31,441 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 03:10:55,303 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 03:10:55,303 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 03:10:55,303 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 03:10:55,303 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 03:24:49,737 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 03:24:49,737 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 03:24:49,737 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 03:24:49,737 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 03:31:44,679 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 03:31:44,679 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 03:31:44,679 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 03:31:44,679 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 03:38:46,962 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 03:38:46,962 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 03:38:46,978 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 03:38:46,978 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 03:49:18,979 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 03:49:18,979 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 03:49:18,979 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 03:49:18,979 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 03:53:00,059 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 03:53:00,059 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 03:53:00,059 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 03:53:00,059 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 03:57:25,900 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 03:57:25,900 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 03:57:25,900 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 03:57:25,900 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 04:02:45,225 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 04:02:45,225 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 04:02:45,225 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 04:02:45,225 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 04:43:06,079 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
+2017-09-28 05:01:41,536 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:01:41,570 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 05:01:41,572 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:01:41,572 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 05:02:19,191 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:02:19,192 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 05:02:19,194 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:02:19,194 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 05:14:53,498 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:14:53,499 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 05:14:53,501 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:14:53,501 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 05:16:24,761 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:16:24,761 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 05:16:24,762 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:16:24,763 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 05:17:56,535 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:17:56,535 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 05:17:56,536 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:17:56,536 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 05:18:28,116 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:18:28,116 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 05:18:28,117 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:18:28,117 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 05:25:38,389 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:25:38,389 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 05:25:38,390 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:25:38,390 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 05:25:51,891 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:25:51,891 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 05:25:51,893 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:25:51,893 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 05:29:43,693 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:29:43,693 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 05:29:43,694 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:29:43,695 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 05:31:59,708 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:31:59,708 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 05:31:59,709 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:31:59,709 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 05:42:21,503 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:42:21,503 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 05:42:21,504 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:42:21,504 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 05:58:47,300 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:58:47,300 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 05:58:47,301 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 05:58:47,301 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 06:06:05,873 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:06:05,873 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 06:06:05,874 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:06:05,875 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 06:06:17,158 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:06:17,159 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 06:06:17,161 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:06:17,161 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 06:07:20,392 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:07:20,393 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 06:07:20,394 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:07:20,394 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 06:10:22,560 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:10:22,560 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 06:10:22,561 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:10:22,562 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 06:18:59,817 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:18:59,817 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 06:18:59,818 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:18:59,818 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 06:19:13,507 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:19:13,507 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 06:19:13,509 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:19:13,509 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 06:20:02,399 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:20:02,400 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 06:20:02,402 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:20:02,402 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 06:27:52,725 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:27:52,725 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 06:27:52,726 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:27:52,727 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 06:29:29,290 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:29:29,291 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 06:29:29,291 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:29:29,291 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 06:53:58,160 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:53:58,161 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 06:53:58,161 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:53:58,162 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 06:54:30,296 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:54:30,296 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 06:54:30,296 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:54:30,297 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 06:55:28,093 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:55:28,094 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 06:55:28,095 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:55:28,095 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 06:58:14,152 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:58:14,152 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 06:58:14,153 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:58:14,153 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 06:59:33,814 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:59:33,814 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 06:59:33,815 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:59:33,815 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 06:59:58,540 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:59:58,540 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 06:59:58,541 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 06:59:58,542 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 07:07:58,789 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 07:07:58,789 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 07:07:58,790 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 07:07:58,791 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 07:08:33,100 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 07:08:33,100 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 07:08:33,102 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 07:08:33,102 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources
+2017-09-28 07:09:50,638 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 07:09:50,638 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\main\resources
+2017-09-28 07:09:50,639 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-28 07:09:50,639 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\xuchen\Desktop\WebSpider\webcrawler\src\test\resources

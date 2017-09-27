@@ -1,0 +1,55 @@
+package csci572hw2.webcrawler;
+
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class FileUtil {
+
+	private static File fetchFile;
+	private static File visitFile;
+	private static File urlFile;
+	private static String dirPath="";
+	public static void init() throws Exception{
+		fetchFile=new File("output");
+		if(fetchFile.exists()==false){
+			fetchFile.mkdirs();
+		}
+		dirPath=fetchFile.getAbsolutePath();
+		fetchFile=new File(dirPath+"/fetch_USA_TODAY.csv");
+		if(fetchFile.exists()==false){
+			fetchFile.createNewFile();
+		}
+		visitFile=new File(dirPath+"/visit_USA_TODAY.csv");
+		if(visitFile.exists()==false){
+			visitFile.createNewFile();
+		}
+		urlFile=new File(dirPath+"/url_USA_TODAY.csv");
+		if(urlFile.exists()==false){
+			urlFile.createNewFile();
+		}
+		
+		System.out.println("finish output file initializing");
+		
+	}
+	
+	public static void print(){
+		System.out.println(fetchFile.getAbsolutePath());
+		System.out.println(visitFile.getAbsolutePath());
+		System.out.println(urlFile.getAbsolutePath());
+	}
+	
+	public static void WriteToFetchFile(String input){
+		try {
+			FileWriter fw=new FileWriter(fetchFile);
+			fw.write(input,0,input.length());
+			fw.flush();
+			fw.close();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
+	
+}

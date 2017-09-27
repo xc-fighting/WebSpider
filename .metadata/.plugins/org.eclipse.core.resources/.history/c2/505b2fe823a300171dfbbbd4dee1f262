@@ -1,0 +1,19 @@
+package csci572hw2.webcrawler;
+
+import java.io.File;
+
+public class FileUtil {
+
+	private File storageFolder;
+	
+	private void init(){
+		storageFolder=new File("output");
+		if(storageFolder.exists()==false){
+			storageFolder.mkdirs();
+		}
+			System.out.println(storageFolder.getAbsolutePath());
+	}
+	public FileUtil(){
+		init();
+	}
+}

@@ -1,0 +1,41 @@
+package csci572hw2.webcrawler;
+
+import java.io.File;
+
+public class FileUtil {
+
+	private File fetchFile;
+	private File visitFile;
+	private File urlFile;
+	String dirPath="";
+	private void init() throws Exception{
+		fetchFile=new File("output");
+		if(fetchFile.exists()==false){
+			fetchFile.mkdirs();
+		}
+		dirPath=fetchFile.getAbsolutePath();
+		fetchFile=new File(dirPath+"/fetch_USA_TODAY.csv");
+		if(fetchFile.exists()==false){
+			fetchFile.createNewFile();
+		}
+		visitFile=new File(dirPath+"/visit_USA_TODAY.csv");
+		if(visitFile.exists()==false){
+			visitFile.createNewFile();
+		}
+		urlFile=new File(dirPath+"/url_USA_TODAY.csv");
+		if(urlFile.exists()==false){
+			urlFile.createNewFile();
+		}
+		
+		System.out.println("finish output file initializing");
+		
+	}
+	public FileUtil(){
+		try {
+			init();
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+}

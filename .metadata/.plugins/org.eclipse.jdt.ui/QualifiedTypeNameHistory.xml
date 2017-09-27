@@ -12,4 +12,14 @@
 <fullyQualifiedTypeName name="edu.uci.ics.crawler4j.parser.HtmlParseData"/>
 <fullyQualifiedTypeName name="java.util.Set"/>
 <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+<fullyQualifiedTypeName name="edu.uci.ics.crawler4j.parser.BinaryParseData"/>
+<fullyQualifiedTypeName name="java.util.UUID"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="com.google.common.io.Files"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="csci572hw2.webcrawler.FileUtil"/>
+<fullyQualifiedTypeName name="java.io.RandomAccessFile"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
 </qualifiedTypeNameHistroy>

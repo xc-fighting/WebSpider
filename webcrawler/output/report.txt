@@ -1,0 +1,6 @@
+fetch attempt:200
+fetch success:192
+fetch fail or abort:8
+status code:404 1
+status code:200 192
+status code:301 7

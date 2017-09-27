@@ -1,0 +1,22 @@
+package csci572hw2.webcrawler;
+
+import java.io.File;
+
+public class FileUtil {
+
+	private File storageFolder;
+	String filename="";
+	private void init() throws Exception{
+		storageFolder=new File("output");
+		if(storageFolder.exists()==false){
+			storageFolder.mkdirs();
+		}
+		System.out.println(storageFolder.getAbsolutePath());
+		filename=storageFolder.getAbsolutePath()+"/fetch_USA_TODAY.csv";
+		storageFolder=new File(filename);
+		storageFolder.createNewFile();
+	}
+	public FileUtil(){
+		init();
+	}
+}

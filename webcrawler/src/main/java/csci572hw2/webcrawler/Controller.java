@@ -11,10 +11,14 @@ public class Controller {
     	 String crawlStorageFolder = "C:\\Users\\xuchen\\Desktop\\WebSpider\\CrawlerData";
          int numberOfCrawlers = 1;
 
+         FileUtil.init();
+         FileUtil.print();
          CrawlConfig config = new CrawlConfig();
          config.setCrawlStorageFolder(crawlStorageFolder);
         
          config.setIncludeBinaryContentInCrawling(true);
+         config.setMaxDepthOfCrawling(16);
+         config.setMaxPagesToFetch(200);
 
          /*
           * Instantiate the controller for this crawl.
@@ -23,22 +27,16 @@ public class Controller {
          RobotstxtConfig robotstxtConfig = new RobotstxtConfig();
          RobotstxtServer robotstxtServer = new RobotstxtServer(robotstxtConfig, pageFetcher);
          CrawlController controller = new CrawlController(config, pageFetcher, robotstxtServer);
-         String[] domains={"https://viterbischool.usc.edu/"};
+         String[] domains={"https://www.usatoday.com/","http://www.usatoday.com/"};
          MyCrawler.configure(domains, "images");
-
-         /*
-          * For each crawl, you need to add some seed urls. These are the first
-          * URLs that are fetched and then the crawler starts following links
-          * which are found in these pages
-          */
-         controller.addSeed("https://viterbischool.usc.edu/");
-        
-
-         /*
-          * Start the crawl. This is a blocking operation, meaning that your code
-          * will reach the line after this only when crawling is finished.
-          */
+         
+         for(String domain:domains){
+        	 controller.addSeed(domain);
+         }
+         
          controller.start(MyCrawler.class, numberOfCrawlers);
+         
+         FileUtil.WriteToReportFile();
 
     }
 }
