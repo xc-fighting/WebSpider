@@ -44,7 +44,7 @@ public class FileUtil {
 		System.out.println(urlFile.getAbsolutePath());
 	}
 	
-	public static void WriteToFetchFile(String input){
+	public synchronized static void WriteToFetchFile(String input){
 		try {
 			RandomAccessFile rf=new RandomAccessFile(fetchFile,"rw");
 			long fileLength=rf.length();
@@ -58,7 +58,7 @@ public class FileUtil {
 		
 	}
 	
-	public static void WriteToVistitFile(String input){
+	public synchronized static void WriteToVistitFile(String input){
 		try{
 			RandomAccessFile rf=new RandomAccessFile(visitFile,"rw");
 			long fileLength=rf.length();
@@ -70,7 +70,7 @@ public class FileUtil {
 			e.printStackTrace();
 		}
 	}
-	public static void WriteToURLsFile(String input){
+	public synchronized static void WriteToURLsFile(String input){
 		try{
 			RandomAccessFile rf=new RandomAccessFile(urlFile,"rw");
 			long fileLength=rf.length();
@@ -86,13 +86,41 @@ public class FileUtil {
 	public static void WriteToReportFile(){
 		try{
 			FileWriter rf=new FileWriter(reportFile);
+			rf.write("Name: CHEN XU\n");
+			rf.write("USC ID: 9012039827\n");
+			rf.write("News site crawled: USA_TODAY\n\n");
+			rf.write("Fetch Statistics\n");
+			rf.write("=================\n");
+			rf.write("#fetch attempt:"+MyCrawler.NumberOfFetchAttempted+"\n");
+			rf.write("#fetch success:"+MyCrawler.NumberOfFetchSuccessed+"\n");
+			rf.write("#fetch fail or abort:"+(MyCrawler.NumberOfFetchAttempted-MyCrawler.NumberOfFetchSuccessed)+"\n\n");
 			
-			rf.write("fetch attempt:"+MyCrawler.NumberOfFetchAttempted+"\n");
-			rf.write("fetch success:"+MyCrawler.NumberOfFetchSuccessed+"\n");
-			rf.write("fetch fail or abort:"+(MyCrawler.NumberOfFetchAttempted-MyCrawler.NumberOfFetchSuccessed)+"\n");
+			rf.write("Outgoint URLS\n");
+			rf.write("==============\n");
+			rf.write("Total URLs extracted:"+MyCrawler.NumberOfAllURL+"\n");
+			rf.write("#unique URLs extracted: "+(MyCrawler.NumOfDomainUnique+MyCrawler.NumOfExternalUnique)+"\n");
+			rf.write("#unique URLs within News Site: "+MyCrawler.NumOfDomainUnique+"\n");
+			rf.write("#unique URLs outside News Site: "+MyCrawler.NumOfExternalUnique+"\n\n");
+			
+			rf.write("Status Codes\n");
+			rf.write("============\n");
 			for(int key:MyCrawler.statusMap.keySet()){
-				rf.write("status code:"+key+" "+MyCrawler.statusMap.get(key)+"\n");
+				rf.write(key+":"+MyCrawler.statusMap.get(key)+"\n");
 			}
+			rf.write("File Sizes:\n");
+			rf.write("==============\n");
+			rf.write("< 1KB:"+MyCrawler.size1+"\n");
+			rf.write("1KB ~ < 10KB:"+MyCrawler.size2+"\n");
+			rf.write("10KB ~ < 100KB:"+MyCrawler.size3+"\n");
+			rf.write("100KB ~ < 1MB:"+MyCrawler.size4+"\n");
+			rf.write(">= 1MB:"+MyCrawler.size5+"\n\n");
+			
+			rf.write("Content Types:\n");
+			rf.write("================\n");
+			for(String key:MyCrawler.typeMap.keySet()){
+				rf.write(key+":"+MyCrawler.typeMap.get(key)+"\n");
+			}
+			
 			rf.close();
 		}
 		catch(Exception e){

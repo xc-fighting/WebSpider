@@ -9,7 +9,7 @@ import edu.uci.ics.crawler4j.robotstxt.RobotstxtServer;
 public class Controller {
     public static void main(String[] args) throws Exception{
     	 String crawlStorageFolder = "C:\\Users\\xuchen\\Desktop\\WebSpider\\CrawlerData";
-         int numberOfCrawlers = 1;
+         int numberOfCrawlers = 7;
 
          FileUtil.init();
          FileUtil.print();
@@ -18,7 +18,7 @@ public class Controller {
         
          config.setIncludeBinaryContentInCrawling(true);
          config.setMaxDepthOfCrawling(16);
-         config.setMaxPagesToFetch(200);
+         config.setMaxPagesToFetch(20000);
 
          /*
           * Instantiate the controller for this crawl.

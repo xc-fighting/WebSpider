@@ -1,6 +1,38 @@
-fetch attempt:200
-fetch success:192
-fetch fail or abort:8
-status code:404 1
-status code:200 192
-status code:301 7
+Name: CHEN XU
+USC ID: 9012039827
+News site crawled: USA_TODAY
+
+Fetch Statistics
+=================
+#fetch attempt:19678
+#fetch success:17800
+#fetch fail or abort:1878
+
+Outgoint URLS
+==============
+Total URLs extracted:1286170
+#unique URLs extracted: 357708
+#unique URLs within News Site: 81701
+#unique URLs outside News Site: 276007
+
+Status Codes
+============
+404:9
+200:17800
+301:1731
+302:138
+File Sizes:
+==============
+< 1KB:1
+1KB ~ < 10KB:32
+10KB ~ < 100KB:425
+100KB ~ < 1MB:17199
+>= 1MB:143
+
+Content Types:
+================
+image/png:0
+text/html:17800
+image/jpeg:0
+application/pdf:0
+image/gif:0
