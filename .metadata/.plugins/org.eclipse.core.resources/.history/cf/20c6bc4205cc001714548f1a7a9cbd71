@@ -1,0 +1,8 @@
+package homework5.tikaparse;
+
+public class TikaParser {
+
+	public static void main(String[] args){
+		
+	}
+}

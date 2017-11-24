@@ -95,7 +95,7 @@ public class FileUtil {
 			rf.write("#fetch success:"+MyCrawler.NumberOfFetchSuccessed+"\n");
 			rf.write("#fetch fail or abort:"+(MyCrawler.NumberOfFetchAttempted-MyCrawler.NumberOfFetchSuccessed)+"\n\n");
 			
-			rf.write("Outgoint URLS\n");
+			rf.write("Outgoing URLS\n");
 			rf.write("==============\n");
 			rf.write("Total URLs extracted:"+MyCrawler.NumberOfAllURL+"\n");
 			rf.write("#unique URLs extracted: "+(MyCrawler.NumOfDomainUnique+MyCrawler.NumOfExternalUnique)+"\n");

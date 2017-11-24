@@ -4,35 +4,36 @@ News site crawled: USA_TODAY
 
 Fetch Statistics
 =================
-#fetch attempt:19678
-#fetch success:17800
-#fetch fail or abort:1878
+#fetch attempt:19976
+#fetch success:18374
+#fetch fail or abort:1602
 
-Outgoint URLS
+Outgoing URLS
 ==============
-Total URLs extracted:1286170
-#unique URLs extracted: 357708
-#unique URLs within News Site: 81701
-#unique URLs outside News Site: 276007
+Total URLs extracted:2620671
+#unique URLs extracted: 330218
+#unique URLs within News Site: 68542
+#unique URLs outside News Site: 261676
 
 Status Codes
 ============
-404:9
-200:17800
-301:1731
-302:138
+404:17
+500:1
+200:18376
+301:1456
+302:126
 File Sizes:
 ==============
 < 1KB:1
-1KB ~ < 10KB:32
-10KB ~ < 100KB:425
-100KB ~ < 1MB:17199
->= 1MB:143
+1KB ~ < 10KB:20
+10KB ~ < 100KB:308
+100KB ~ < 1MB:17907
+>= 1MB:138
 
 Content Types:
 ================
 image/png:0
-text/html:17800
+text/html:18374
 image/jpeg:0
 application/pdf:0
 image/gif:0

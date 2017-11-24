@@ -54,33 +54,35 @@ public class MyCrawler extends WebCrawler{
 	 }
 	 @Override
 	  protected void handlePageStatusCode(WebURL webUrl, int statusCode, String statusDescription) {
-		   System.out.println("handling all of the url it want to fetch");
-		   if(statusMap.containsKey(statusCode)==false){
-			   statusMap.put(statusCode, 0);
-		   }
-		   statusMap.put(statusCode,statusMap.get(statusCode)+1);
-		   NumberOfFetchAttempted++;
-		   String input=webUrl.getURL()+","+statusCode;
-		   System.out.println(input);
-		   FileUtil.WriteToFetchFile(input);
+		 synchronized(this){
+			 System.out.println("handling all of the url it want to fetch");
+			   if(statusMap.containsKey(statusCode)==false){
+				   statusMap.put(statusCode, 0);
+			   }
+			   statusMap.put(statusCode,statusMap.get(statusCode)+1);
+			   NumberOfFetchAttempted++;
+			   String input=webUrl.getURL()+","+statusCode;
+			   System.out.println(input);
+			   FileUtil.WriteToFetchFile(input);
+		 }
+		  
 	   }
 
 		@Override
 		public boolean shouldVisit(Page referringPage, WebURL url) {
-			System.out.println("judging for the validation of current page's children");
-			NumberOfAllURL++;
+			synchronized(this){
+				System.out.println("judging for the validation of current page's children");
+				
+			//	NumberOfAllURL++;
+			
+			
 			String href = url.getURL();
-			int code=href.hashCode();
+		//	int code=href.hashCode();
 			String input="";
 			for(String domain:crawlDomains){
 				//judge whether the url inside the domain
 				//if yes
 		    	if(href.startsWith(domain)){
-		    		//if the url inside the domain,then judege if it is valid for visit
-		    		if(domainSets.contains(code)==false){
-		    			NumOfDomainUnique++;
-		    			domainSets.add(code);
-		    		}
 		    		input=url+","+"OK";
 		    		FileUtil.WriteToURLsFile(input);
 		    		if(FILTERS.matcher(href).matches()){
@@ -95,11 +97,10 @@ public class MyCrawler extends WebCrawler{
 		    //for the condistion when the url is not inside the domain
 			input=url+","+"N_OK";
 			FileUtil.WriteToURLsFile(input);
-			if(externalSets.contains(code)==false){
-				NumOfExternalUnique++;
-				externalSets.add(code);
-			}
+			
 		    return false;
+			}
+			
 		}
 		
 		/**
@@ -107,37 +108,61 @@ public class MyCrawler extends WebCrawler{
 		* to be processed by your program.
 		*/
 		@Override
-		public void visit(Page page)  {
-			System.out.println("visiting page in queue");
-			NumberOfFetchSuccessed++;
-			String url = page.getWebURL().getURL();
-			int NumberOfLinks=page.getParseData().getOutgoingUrls().size();
+		public  void visit(Page page)  {
+			synchronized(this){
+				System.out.println("visiting page in queue");
+				NumberOfFetchSuccessed++;
+				String url = page.getWebURL().getURL();
+				int NumberOfLinks=page.getParseData().getOutgoingUrls().size();
+			    NumberOfAllURL+=NumberOfLinks;
+		        for(WebURL wu:page.getParseData().getOutgoingUrls()){
+		        	String href=wu.getURL();
+		        	int code=href.hashCode();
+		        	boolean isExternal=true;
+		    		for(String domain:crawlDomains){
+						//judge whether the url inside the domain
+						//if yes
+				    	if(href.startsWith(domain)){
+				    		isExternal=false;
+				    		//if the url inside the domain,then judege if it is valid for visit
+				    		if(domainSets.contains(code)==false){
+				    			NumOfDomainUnique++;
+				    			domainSets.add(code);
+				    		}	
+				    	}
+				    }
+		    		if(isExternal==true && externalSets.contains(code)==false){
+		    			NumOfExternalUnique++;
+		    			externalSets.add(code);
+		    		}
+		        }
+				String type=page.getContentType();
+				if(type.startsWith("text/html")){
+					typeMap.put("text/html",typeMap.get("text/html")+1);
+				}
+				else{
+					typeMap.put(type,typeMap.get(type)+1);
+				}
+				int contentLength=page.getContentData().length;
+				if(contentLength<1024){
+					size1++;
+				}
+				else if(contentLength>=1024 && contentLength<10240){
+					size2++;
+				}
+				else if(contentLength>=10240 && contentLength<102400){
+					size3++;
+				}
+				else if(contentLength>=102400 && contentLength<1048576){
+					size4++;
+				}
+				else{
+					size5++;
+				}
+				String input=url+","+contentLength+","+NumberOfLinks+","+type;
+				FileUtil.WriteToVistitFile(input);
+			}
 			
-			String type=page.getContentType();
-			if(type.startsWith("text/html")){
-				typeMap.put("text/html",typeMap.get("text/html")+1);
-			}
-			else{
-				typeMap.put(type,typeMap.get(type)+1);
-			}
-			int contentLength=page.getContentData().length;
-			if(contentLength<1024){
-				size1++;
-			}
-			else if(contentLength>=1024 && contentLength<10240){
-				size2++;
-			}
-			else if(contentLength>=10240 && contentLength<102400){
-				size3++;
-			}
-			else if(contentLength>=102400 && contentLength<1048576){
-				size4++;
-			}
-			else{
-				size5++;
-			}
-			String input=url+","+contentLength+","+NumberOfLinks+","+type;
-			FileUtil.WriteToVistitFile(input);
 		
 		}
 
